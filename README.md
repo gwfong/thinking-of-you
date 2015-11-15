@@ -13,5 +13,7 @@ Promises are used to deal with the heavy callback nature of the event programmin
 Intel has [Getting Started](https://software.intel.com/en-us/iot/library/edison-getting-started) instructions. Follow them thoroughly. At the end of the process you should be able to open a terminal window, run node, and print "Hello, World!".
 ## The Code
 Each box needs an email, a Pushbullet account, and something called an iden. The iden can be obtained by inspecting the response of any pushbullet request. Pushbullet uses it to identify the sender. In this project it is used to ignore messages sent by oneself.
+
 Each component, like the LCD clock or the LED heart, adheres to a set of standard methods: init(), selfTestAsync(), start(), startThinkingOfYou(), and stopThinkingOfYou(). They do whatever is appropriate for that component to implement the purpose of the method. The button components, because they are input devices, only implement the first three methods.
+
 main.js is the controller between any input signals and the designated output signal. For example, it'll listen for a message from Pushbullet and decide which output device to animate.
