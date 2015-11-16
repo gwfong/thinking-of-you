@@ -1,0 +1,110 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "README.md": {
+        "previousModTime": 1447118106000,
+        "modified": 1447118106000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "TOYBox1.xdk": {
+        "previousModTime": 1447118106000,
+        "modified": 1447118106000,
+        "seen": true,
+        "name": "TOYBox1.xdk"
+      },
+      "TOYBox1.xdke": {
+        "previousModTime": 1447124280000,
+        "modified": 1447124280000,
+        "seen": true,
+        "name": "TOYBox1.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1447118106000,
+        "modified": 1447118106000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "lcdClock.js": {
+        "previousModTime": 1447118208000,
+        "modified": 1447118208000,
+        "seen": true,
+        "name": "lcdClock.js"
+      },
+      "ledHeart.js": {
+        "previousModTime": 1447118215000,
+        "modified": 1447118215000,
+        "seen": true,
+        "name": "ledHeart.js"
+      },
+      "main.js": {
+        "previousModTime": 1447124269000,
+        "modified": 1447124269000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "main.js~": {
+        "previousModTime": 1447118106000,
+        "modified": 1447118106000,
+        "seen": true,
+        "name": "main.js~"
+      },
+      "package.json": {
+        "previousModTime": 1447118158000,
+        "modified": 1447118158000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "simpleButton.js": {
+        "previousModTime": 1447118264000,
+        "modified": 1447118264000,
+        "seen": true,
+        "name": "simpleButton.js"
+      },
+      "simpleDate.js": {
+        "previousModTime": 1447118275000,
+        "modified": 1447118275000,
+        "seen": true,
+        "name": "simpleDate.js"
+      },
+      "simplePushbullet.js": {
+        "previousModTime": 1447118289000,
+        "modified": 1447118289000,
+        "seen": true,
+        "name": "simplePushbullet.js"
+      },
+      "simplePushbulletConfig.json": {
+        "previousModTime": 1447119849000,
+        "modified": 1447119849000,
+        "seen": true,
+        "name": "simplePushbulletConfig.json"
+      },
+      "stepperFlower.js": {
+        "previousModTime": 1447118309000,
+        "modified": 1447118309000,
+        "seen": true,
+        "name": "stepperFlower.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1447118106000,
+        "modified": 1447118106000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "simplePushbulletConfig.json~": {
+        "previousModTime": 1447118289000,
+        "modified": 1447118289000,
+        "seen": true,
+        "name": "simplePushbulletConfig.json~"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
